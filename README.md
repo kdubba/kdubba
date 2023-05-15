@@ -34,5 +34,5 @@ https://jeevi.ai
 
 <ul>
   <li><b>follow me: </b> <a href="https://twitter.com/krishna_dubba" target="_blank">@krishna_dubba</a></li>
-  <li><b>want more? </b> <a href="krisnhadubba.info" target="_blank">Personal Website</a></li>
+  <li><b>want more? </b> <a href="http://krisnhadubba.info" target="_blank">Personal Website</a></li>
 </ul>

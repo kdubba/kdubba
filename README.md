@@ -12,7 +12,7 @@
 https://jeevi.ai
 ```
 <p align="center">
-    <img src="https://tenor.com/WqfT.gif" align="center"/>
+    <img src="https://media.tenor.com/IrPvKoyAfmsAAAAC/master-oogway-kung-fu-panda.gif" align="center"/>
 </p>
 
 | | |

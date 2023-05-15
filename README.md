@@ -18,7 +18,7 @@ https://jeevi.ai
 | | |
 |---------------|-----|
 | ⭐️ **my repos**   | [My other profile](https://github.com/krishnadubba)  |
-| 🧠 **technologies**  | evm, solidity, erigon, geth, gpt3, llm, langchain, llamaindex, stable diffusion, lora  |
+| 🧠 **technologies**  | pytorch, computer vision, llm, langchain, llamaindex, rasa, fastapi |
 | 💬 **lang**   | python |
 | 💽 **data**    | MongoDB, Redis |
 | 🚇 **pipelines** | kafka, celery, redis |
@@ -34,5 +34,5 @@ https://jeevi.ai
 
 <ul>
   <li><b>follow me: </b> <a href="https://twitter.com/krishna_dubba" target="_blank">@krishna_dubba</a></li>
-  <li><b>sey hei: </b> <a href="#">hi🍜krisnhadubba.info</a></li>
+  <li><b>sey hei: </b> <a href="www.krisnhadubba.info">Personal Website</a></li>
 </ul>
